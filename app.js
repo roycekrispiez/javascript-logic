@@ -68,7 +68,7 @@ console.log(undefined >= null); //false - null
 null >= null;// true
 
 // Less than or Equal to (<=)
-null <= null;// true
+null  <= null;// true
 
 /*
 * Logical (or Relational) Operators
