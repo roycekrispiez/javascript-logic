@@ -78,7 +78,7 @@ null <= null;// true
 1 > 0 &&  1 > 0;// false
 
 // Or (||) - If any of the two operands satisfy the statement, then the condition becomes true.
-2 > 0 || 2 > 20; 
+2 < 0 || 2 > 20; 
 
 // Not (!) - Reverses the logical state of its operand.
 !true;
