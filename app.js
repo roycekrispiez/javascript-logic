@@ -53,7 +53,7 @@ console.log(c);
 5 === 5;//true
 
 // Not Equal (!==)
-5!== "five";// true
+5!== "five" ;// true
 
 // Greater Than (>)
 5 > 10;// false
