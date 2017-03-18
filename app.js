@@ -38,7 +38,7 @@ console.log(b);
 
 // Decrement (--)
 //5--;// Invalid
-var c = 5;
+var c = 6;
 c--;
 console.log(c);
 
@@ -61,7 +61,7 @@ console.log(c);
 
 // Less Than (<)
 "20" < 20;// false
-20 == 20;// true
+20 ==  20;// true
 
 // Greater than or Equal to (>=)
 console.log(undefined >= null); //false - null
@@ -75,10 +75,10 @@ null <= null;// true
 */
 
 // And (&&) - If both the operands satisfy the statment, then the condition becomes true
-1 > 0 && 1 < 0;// false
+1 > 0 &&  1 < 0;// false
 
 // Or (||) - If any of the two operands satisfy the statement, then the condition becomes true.
-2 > 0 || 2 > 20;
+2 > 0 || 2 > 20; 
 
 // Not (!) - Reverses the logical state of its operand.
 !true;
