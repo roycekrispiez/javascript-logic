@@ -34,7 +34,7 @@ console.log(a);
 // Invalid
 var b = -1;
 b++;
-console.log(b);
+console.log(e);
 
 // Decrement (--)
 //5--;// Invalid
