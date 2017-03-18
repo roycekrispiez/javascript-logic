@@ -75,7 +75,7 @@ null <= null;// true
 */
 
 // And (&&) - If both the operands satisfy the statment, then the condition becomes true
-1 > 0 &&  1 < 0;// false
+1 > 0 &&  1 > 0;// false
 
 // Or (||) - If any of the two operands satisfy the statement, then the condition becomes true.
 2 > 0 || 2 > 20; 
